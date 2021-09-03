@@ -8,5 +8,7 @@ public class Main {
         System.out.println("Okay");
         System.out.println(" This is crazy interesting");
         Scanner scanner = new Scanner(System.in);
+        int smack = scanner.nextInt();
+        System.out.println(smack);
         }
 }
